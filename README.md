@@ -5,7 +5,14 @@ Description:
 A C# crafting and inventory management application demonstrating object-oriented programming concepts.
 
 ### Screenshots
-![Screenshot1](images/crafting1.png)
+![Screenshot1](images/OrdleScreenshot.png)
+
+![Screenshot2](images/PocketmonScreenshot.png)
+
+![Screenshot3](images/Creature1.png)
+
+![Screenshot4](images/Creature2.png)
+
 
 ### Technical Details
 - Inventory system
