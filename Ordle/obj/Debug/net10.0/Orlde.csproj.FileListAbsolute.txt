@@ -1,0 +1,14 @@
+C:\Users\heo78\dev\playground\school\Ordle\bin\Debug\net10.0\Orlde.exe
+C:\Users\heo78\dev\playground\school\Ordle\bin\Debug\net10.0\Orlde.deps.json
+C:\Users\heo78\dev\playground\school\Ordle\bin\Debug\net10.0\Orlde.runtimeconfig.json
+C:\Users\heo78\dev\playground\school\Ordle\bin\Debug\net10.0\Orlde.dll
+C:\Users\heo78\dev\playground\school\Ordle\bin\Debug\net10.0\Orlde.pdb
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\Orlde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\Orlde.AssemblyInfoInputs.cache
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\Orlde.AssemblyInfo.cs
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\Orlde.csproj.CoreCompileInputs.cache
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\Orlde.dll
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\refint\Orlde.dll
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\Orlde.pdb
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\Orlde.genruntimeconfig.cache
+C:\Users\heo78\dev\playground\school\Ordle\obj\Debug\net10.0\ref\Orlde.dll
