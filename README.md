@@ -7,7 +7,7 @@ A C# crafting and inventory management application demonstrating object-oriented
 ### Screenshots
 ![Screenshot1](images/OrdleScreenshot.png)
 
-![Screenshot2](images/PocketmonScreenshot.png)
+![Screenshot2](images/PoketmonScreenshot.png)
 
 ![Screenshot3](images/Creature1.png)
 
