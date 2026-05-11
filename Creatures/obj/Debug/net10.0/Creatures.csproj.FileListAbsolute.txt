@@ -1,0 +1,4 @@
+C:\Users\heo78\dev\playground\school\Creatures\obj\Debug\net10.0\Creatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heo78\dev\playground\school\Creatures\obj\Debug\net10.0\Creatures.AssemblyInfoInputs.cache
+C:\Users\heo78\dev\playground\school\Creatures\obj\Debug\net10.0\Creatures.AssemblyInfo.cs
+C:\Users\heo78\dev\playground\school\Creatures\obj\Debug\net10.0\Creatures.csproj.CoreCompileInputs.cache
