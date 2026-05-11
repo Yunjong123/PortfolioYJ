@@ -1,1 +1,0 @@
-Welcome. This app loads recipes and inventories from external files.
